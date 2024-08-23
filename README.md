@@ -7,3 +7,5 @@
 * git commit -m "adding ..." -- creates a commit
 
 ### we will make commit by following best practices
+
+# GOODBYE
